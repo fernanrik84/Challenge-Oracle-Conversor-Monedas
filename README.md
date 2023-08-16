@@ -13,6 +13,7 @@ Contribución
 ¡Las contribuciones son bienvenidas! Si encuentras algún error, tienes sugerencias o deseas agregar nuevas características, no dudes en crear un issue o enviar un pull request.
 
 Futuras Mejoras
+* Licencia
 -Mejorar la interfaz gráfica.
 -Añadir la opción de actualizar automáticamente las tasas de cambio desde una API.
 -Implementar un historial de conversiones realizadas.
